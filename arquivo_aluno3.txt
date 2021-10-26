@@ -1,0 +1,1 @@
+Esse arquivo é exclusivo da branch 'aluno3'.
