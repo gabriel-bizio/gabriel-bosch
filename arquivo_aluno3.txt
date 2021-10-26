@@ -1,0 +1,2 @@
+Esse arquivo é exclusivo da branch 'aluno3'.
+se ele está dentro de outra branch é porque o merge já aconteceu
